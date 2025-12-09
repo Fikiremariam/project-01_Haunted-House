@@ -26,3 +26,6 @@ This is a short and simple interactive HTML and CSS haunted house game where the
 # credits
 pixabay.com - for audios
 
+# glitches
+
+-Some items might not show. If the repo is cloned everything works correctly inside user device.
