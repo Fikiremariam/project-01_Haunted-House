@@ -1,7 +1,7 @@
 
 # Haunted House
 
->live demo : https://fikiremariam.github.io/csci4208-portfolio-2025/projects/project-01/
+>live demo : https://fikiremariam.github.io/project-01_Haunted-House/project-01/
 
 >Repo : https://github.com/Fikiremariam/csci4208-portfolio-2025
 
